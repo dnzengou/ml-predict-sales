@@ -34,5 +34,7 @@ print(response.json())
 # Inspiration
 
  - **Article**: [Towards Data Science: Create an API to Deploy Machine Learning Models using Flask](https://towardsdatascience.com/create-an-api-to-deploy-machine-learning-models-using-flask-and-heroku-67a011800c50)
+ - **Elizabeth** [GitHub](https://github.com/elizabethts)
  - **demo** [PredictivApp](https://predictivapp.herokuapp.com/)
+ - **Abhinav Sagar** [GitHub](https://github.com/abhinavsagar)
 

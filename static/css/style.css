@@ -25,11 +25,11 @@ body {
 
 }
 .login { 
-	position: absolute;
+	position: relative;/* absolute*/
 	top: 40%;
 	left: 50%;
 	margin: -150px 0 0 -150px;
-	width:400px;
+	width:360px;
 	height:400px;
 }
 
